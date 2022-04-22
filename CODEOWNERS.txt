@@ -1,2 +1,7 @@
 # Any change in this repo will require approval from @paul-villalobos
 @paul-villalobos
+
+# Any change in '/src' directory will require approval from anyone in team devteam
+/src @PalestraSistemas/devteam
+
+/docs @PalestraSistemas/docsteam
